@@ -1,3 +1,3 @@
 # Java Bootcamp Dersleri
 
-Bu repository, katıldığım Java Bootcamp sürecinde aldığım dersleri içermektedir.
+Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerini içermektedir.
