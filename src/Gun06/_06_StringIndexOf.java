@@ -1,6 +1,6 @@
 package Gun06;
 
-public class _06_StringIndexOf {
+    public class _06_StringIndexOf {
     public static void main(String[] args) {
         // IndexOf(harf/ler) -> verilen harf/ler in Index ini ver
         // Bugün     indexOf("g")  -> 2
