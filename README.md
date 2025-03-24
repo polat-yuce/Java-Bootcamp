@@ -13,9 +13,9 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 5: Scanneri ve soru çözümleri.
 
-• Gün 6:
+• Gün 6: StringLength, StringCharAt, StringIndexOf, StringLastIndexOf 
 
-• Gün 7:
+• Gün 7: StringConcat, StringEquals, StringEqualsIgnoreCase, StringSubstring, StringStartsWith, StringEndsWith, StringToLowerCase, StringToUpperCase, StringContains, StringIsEmpty, StringTrim, StringReplace, StringReplaceFirst komutları.
 
 • Gün 8:
 
