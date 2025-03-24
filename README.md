@@ -11,7 +11,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 4: Tip donusumleri, büyüğü küçüğe, küçüğü büyüğe atma, soru çözümü.
 
-• Gün 5:
+• Gün 5: Scanneri ve soru çözümleri.
 
 • Gün 6:
 
