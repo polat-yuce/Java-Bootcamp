@@ -21,7 +21,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 9: If ile ilgi sorular, MantiksalIfadeler ve ilgili soru.
 
-• Gün 10:
+• Gün 10: Soru çözümleri, JavaTernary, JavaMath.
 
 • Gün 11:
 
