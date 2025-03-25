@@ -23,7 +23,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 10: Soru çözümleri, JavaTernary, JavaMath.
 
-• Gün 11:
+• Gün 11: JavaRandom, IfElseIf, Switch
 
 • Gün 12: 
 
