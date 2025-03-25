@@ -19,7 +19,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 8: StringReplaceAll, AritmeticOperators, ComparisonOperators, If ve ilgi sorular
 
-• Gün 9: 
+• Gün 9: If ile ilgi sorular, MantiksalIfadeler ve ilgili soru.
 
 • Gün 10:
 
