@@ -17,7 +17,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 7: StringConcat, StringEquals, StringEqualsIgnoreCase, StringSubstring, StringStartsWith, StringEndsWith, StringToLowerCase, StringToUpperCase, StringContains, StringIsEmpty, StringTrim, StringReplace, StringReplaceFirst komutları.
 
-• Gün 8:
+• Gün 8: StringReplaceAll, AritmeticOperators, ComparisonOperators, If ve ilgi sorular
 
 • Gün 9: 
 
