@@ -25,11 +25,11 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 11: JavaRandom, IfElseIf, Switch
 
-• Gün 12: 
+• Gün 12: Switch ile ilgi soru, While ve ilgili soru
 
-• Gün 13;
+• Gün 13: Do_While ve ilgili soru, For ve iligi soru 
 
-• Gün 14:
+• Gün 14: Debug ve Continue.
 
 • Gün 
 
