@@ -51,7 +51,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 24: Kendi tipini tanımla - OOP (Object Oriented Programming) -> Nesne ye yönelik programlama. 
 
-• Gün
+• Gün 25: Soru çözümü.
 
 • Gün
 
