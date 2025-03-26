@@ -39,13 +39,13 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 18: Metodlar.
 
-• Gün 19:
+• Gün 19: Metodlar ve ilgili sorular.
 
-• Gün 20:
+• Gün 20: ArrayList ve ilgili soru.
 
-• Gün 21:
+• Gün 21: ArrayList, Java2DArrayList.
 
-• Gün
+• Gün 22: Sets.
 
 • Gün
 
