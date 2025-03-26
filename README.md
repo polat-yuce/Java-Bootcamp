@@ -33,7 +33,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 15: ArrayDizi, Split, ArrayMetodlar
 
-• Gün
+• Gün 16: 2DArraysTablo
 
 • Gün
 
