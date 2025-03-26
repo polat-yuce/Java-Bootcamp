@@ -13,37 +13,37 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 5: Scanneri ve soru çözümleri.
 
-• Gün 6: StringLength, StringCharAt, StringIndexOf, StringLastIndexOf 
+• Gün 6: StringLength, StringCharAt, StringIndexOf, StringLastIndexOf .
 
 • Gün 7: StringConcat, StringEquals, StringEqualsIgnoreCase, StringSubstring, StringStartsWith, StringEndsWith, StringToLowerCase, StringToUpperCase, StringContains, StringIsEmpty, StringTrim, StringReplace, StringReplaceFirst komutları.
 
-• Gün 8: StringReplaceAll, AritmeticOperators, ComparisonOperators, If ve ilgi sorular
+• Gün 8: StringReplaceAll, AritmeticOperators, ComparisonOperators, If ve ilgi sorular.
 
 • Gün 9: If ile ilgi sorular, MantiksalIfadeler ve ilgili soru.
 
 • Gün 10: Soru çözümleri, JavaTernary, JavaMath.
 
-• Gün 11: JavaRandom, IfElseIf, Switch
+• Gün 11: JavaRandom, IfElseIf, Switch.
 
-• Gün 12: Switch ile ilgi soru, While ve ilgili soru
+• Gün 12: Switch ile ilgi soru, While ve ilgili soru.
 
-• Gün 13: Do_While ve ilgili soru, For ve iligi soru 
+• Gün 13: Do_While ve ilgili soru, For ve iligi soru.
 
 • Gün 14: Debug ve Continue.
 
-• Gün 15: ArrayDizi, Split, ArrayMetodlar
+• Gün 15: ArrayDizi, Split, ArrayMetodlar.
 
-• Gün 16: 2DArraysTablo
+• Gün 16: 2DArraysTablo.
 
-• Gün
+• Gün 17: 2DArraysTablo soru çözümü.
 
-• Gün
+• Gün 18: Metodlar.
 
-• Gün
+• Gün 19:
 
-• Gün
+• Gün 20:
 
-• Gün
+• Gün 21:
 
 • Gün
 
