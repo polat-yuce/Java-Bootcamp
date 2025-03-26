@@ -31,7 +31,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 14: Debug ve Continue.
 
-• Gün 
+• Gün 15: ArrayDizi, Split, ArrayMetodlar
 
 • Gün
 
