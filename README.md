@@ -47,9 +47,9 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 22: Sets.
 
-• Gün
+• Gün 23: Map.
 
-• Gün
+• Gün 24: Kendi tipini tanımla - OOP (Object Oriented Programming) -> Nesne ye yönelik programlama. 
 
 • Gün
 
