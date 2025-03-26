@@ -1,0 +1,21 @@
+Array : int[]
+index VAR,  dizi[i]
+fori (sıra garanti indexle ilerliyor)
+foreach (evet, sıra garanti değil)
+boyut sabit
+Dizi elamanları TEKRAR edebilir
+
+ArrayList
+index VAR, get(i)
+fori (sıra garanti, indexle ilerliyor)
+foreach (evet, sıra garanti değil)
+boyut sabit değil
+Dizi elamanları TEKRAR edebilir
+
+SET
+index YOK, tek elemanı alma yok
+fori kullanılamaz, çünkü index yok
+foreach (evet, sıra garanti değil)
+sıra garanti olsun istiyorsak ITERATOR yöntemi kullanılır
+boyut sabit değil
+Dizi elamanları TEKRAR EDEMEZ
