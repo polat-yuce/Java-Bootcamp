@@ -53,7 +53,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 25: Soru çözümü.
 
-• Gün
+• Gün 26: JavaStaticveNonStaticMetodlar.
 
 • Gün
 
