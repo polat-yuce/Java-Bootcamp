@@ -1,4 +1,4 @@
-package Gun29._04_Soru;
+package Gun29._03_Soru;
 
 public class Vatandas {
     String isim;
