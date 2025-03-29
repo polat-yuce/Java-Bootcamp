@@ -55,7 +55,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 26: JavaStaticveNonStaticMetodlar.
 
-• Gün
+• Gün 27: Constructor.
 
 • Gün
 
