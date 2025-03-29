@@ -57,7 +57,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 27: Constructor.
 
-• Gün
+• Gün 28: Access Modifiers
 
 • Gün
 
