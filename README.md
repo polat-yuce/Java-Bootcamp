@@ -59,7 +59,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 28: Access Modifiers
 
-• Gün
+• Gün 29: Static, Final.
 
 • Gün
 
