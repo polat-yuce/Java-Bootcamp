@@ -61,7 +61,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 29: StaticVariable, FinalVariable.
 
-• Gün
+• Gün 30: Enumarator (Enum).
 
 • Gün
 
