@@ -69,7 +69,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 33: Protected, attributeFinal.
 
-• Gün
+• Gün 34:
 
 
 
