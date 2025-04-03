@@ -63,9 +63,9 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 30: Enumarator (Enum).
 
-• Gün
+• Gün 31: Encapsulation.
 
-• Gün
+• Gün 32: Inheritance.
 
 • Gün
 
