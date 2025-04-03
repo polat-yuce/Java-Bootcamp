@@ -67,7 +67,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 32: Inheritance.
 
-• Gün
+• Gün 33: Protected, attributeFinal.
 
 • Gün
 
