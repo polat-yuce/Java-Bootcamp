@@ -71,6 +71,15 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 34: Polymorphism, interface.
 
+• Gün 35: Interface.
 
+• Gün 
 
+• Gün 
+
+• Gün 
+
+• Gün 
+
+• Gün 
 
