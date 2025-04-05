@@ -75,7 +75,7 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 36: Abstract.
 
-• Gün 37:
+• Gün 37: JavaLocalDateTime.
 
 • Gün 38:
 
