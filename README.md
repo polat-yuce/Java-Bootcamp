@@ -73,13 +73,13 @@ Bu repository, katıldığım SDET Bootcamp sürecinde aldığım Java derslerin
 
 • Gün 35: Interface.
 
-• Gün 
+• Gün 36: Abstract.
 
-• Gün 
+• Gün 37:
 
-• Gün 
+• Gün 38:
 
-• Gün 
+• Gün 39:
 
-• Gün 
+• Gün 40:
 
